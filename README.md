@@ -10,4 +10,4 @@
 
 
 
-<img scr="https://i.ibb.co/v1Mx70V/img1.jpg" width="300">
+<img src="https://i.ibb.co/v1Mx70V/img1.jpg" width="300">
